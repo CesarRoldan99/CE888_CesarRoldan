@@ -20,4 +20,7 @@ Inside the IDE:
   VGG_Model:
     This code corresponds to the load, split, and augment of the data, and the train, validation and test process of the pretrained model. 
     
+  VGG20_Model:
+    This zip file contains three files needed for loading and using the model. Download this file to be able to load the model in your own computer. 
+    
    
