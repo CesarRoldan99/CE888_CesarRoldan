@@ -11,3 +11,8 @@ Inside the IDE:
   Copy and paste the given code.
   In the secction "Directories of Data", change variables d_training and d_test, for the directories in which you saved the folders of Train and Test.
   Run the code.
+  
+  Data Visualization:
+    Code use to inspect the training/test dataset after and before the augmentation process.
+    
+   
