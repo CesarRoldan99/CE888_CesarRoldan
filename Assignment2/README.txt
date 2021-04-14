@@ -12,7 +12,12 @@ Inside the IDE:
   In the secction "Directories of Data", change variables d_training and d_test, for the directories in which you saved the folders of Train and Test.
   Run the code.
   
+ ------------------- Description -----------------------
+  
   Data Visualization:
     Code use to inspect the training/test dataset after and before the augmentation process.
+    
+  VGG_Model:
+    This code corresponds to the load, split, and augment of the data, and the train, validation and test process of the pretrained model. 
     
    
