@@ -21,6 +21,6 @@ Inside the IDE:
     This code corresponds to the load, split, and augment of the data, and the train, validation and test process of the pretrained model. 
     
   VGG20_Model:
-    Because the zip file of the trained model is huge, I will provide a text file containing a link to a downloadable zip file within my personal google drive. 
+    Because the zip file of the trained model is huge, I will provide a text file containing a link to a downloadable zip file within my personal google drive. When downloaded,       just load the model and test it. IMPORTANT: In order to test the code, images should be processes with a resize (224, 224) and a rescaling (1.0/225). 
     
    
